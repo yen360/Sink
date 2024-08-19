@@ -21,14 +21,14 @@ onMounted(() => {
         target="_blank"
         title="HTML.ZONE"
       >
-        &copy; {{ new Date().getFullYear() }} Products of HTML.ZONE
+        &copy; {{ new Date().getFullYear() }} Products of Steven Tan
       </a>
       <span
         class="inline-flex justify-center mt-4 space-x-5 sm:ml-auto sm:mt-0 sm:justify-start"
       >
         <a
           ref="email"
-          href="mailto:sink.cool$miantiao.me"
+          href="mailto:steven@steventan.work"
           title="Email"
           class="text-gray-400 hover:text-gray-500"
         >
@@ -61,7 +61,7 @@ onMounted(() => {
         </a>
 
         <a
-          href="https://x.com/0xKaiBi"
+          href="https://x.com/yen360"
           target="_blank"
           title="Twitter"
           class="text-gray-400 hover:text-gray-500"
@@ -85,7 +85,7 @@ onMounted(() => {
         </a>
 
         <a
-          href="https://github.com/ccbikai"
+          href="https://github.com/yen360"
           target="_blank"
           title="GitHub"
           class="text-gray-400 hover:text-gray-500"
