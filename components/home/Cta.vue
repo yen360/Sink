@@ -10,7 +10,7 @@
     </p>
     <div class="flex mt-5">
       <HomeLink
-        href="https://github.com/ccbikai/sink?tab=readme-ov-file#%EF%B8%8F-deployment"
+        href="https://github.com/yen360/sink?tab=readme-ov-file#%EF%B8%8F-deployment"
         type="inverted"
         title="Start Deploy"
       >
