@@ -17,9 +17,9 @@ onMounted(() => {
       >Sink</a>
       <a
         class="mt-4 text-sm text-gray-500 sm:ml-4 sm:pl-4 sm:border-l sm:border-gray-200 sm:mt-0"
-        href="https://html.zone"
+        href="https://www.steventan.work"
         target="_blank"
-        title="HTML.ZONE"
+        title="Steven Tan"
       >
         &copy; {{ new Date().getFullYear() }} Products of Steven Tan
       </a>
@@ -38,7 +38,7 @@ onMounted(() => {
           />
         </a>
         <a
-          href="https://t.me/htmlzone"
+          href="https://t.me/sinksteve"
           target="_blank"
           title="Telegram"
           class="text-gray-400 hover:text-gray-500"
@@ -49,7 +49,7 @@ onMounted(() => {
           />
         </a>
         <a
-          href="https://mt.ci"
+          href="https://www.steventan.work"
           target="_blank"
           title="Blog"
           class="text-gray-400 hover:text-gray-500"
@@ -73,7 +73,7 @@ onMounted(() => {
         </a>
 
         <a
-          href="https://miantiao.me/@chi"
+          href="https://mastodon.social/@stevie90"
           target="_blank"
           title="Mastodon"
           class="text-gray-400 hover:text-gray-500"
